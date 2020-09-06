@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ARPlacer</string>
+    <string name="response_type">json</string>
+    <string name="opentripmap_key">5ae2e3f221c38a28845f05b651b19860e4cc202c604322899a29f231</string>
+</resources>
